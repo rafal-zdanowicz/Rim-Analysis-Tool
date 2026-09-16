@@ -166,3 +166,6 @@ MIT
 
 
 The `requirements.txt` file lists the Python packages required to run the program.
+
+
+Developed by Rafal Zdanowicz for fluorescence microscopy analysis of vesicle membrane intensity.
