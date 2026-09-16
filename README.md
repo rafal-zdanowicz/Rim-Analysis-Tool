@@ -23,7 +23,7 @@ The emphasis is on a simple, transparent workflow: image display settings such a
 - Multiple plot-color choices
 - CSV export of raw intensity values
 - Export of the intensity profile as PNG or SVG
-- Automatic text log containing analysis settings and image statistics
+- Automatic text log containing analysis settings and summary statistics
 
 ## Measurement principle
 
@@ -131,7 +131,7 @@ with one intensity value for each sampled angular position.
 
 ### Analysis log
 
-When a CSV file is saved, a text log is created alongside it. The log records the source image, analysis settings, viewer settings, and image statistics such as mean, minimum, maximum, and standard deviation.
+When a CSV file is saved, a text log is created alongside it. The log records the source image, analysis settings, viewer settings, and summary statistics such as mean, minimum, maximum, and standard deviation.
 
 ### Plot
 
